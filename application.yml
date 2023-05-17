@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: ABCD-SERVICE
 eureka:
   instance:
     prefer-ip-address: true
